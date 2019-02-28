@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/x.jpg",
+        "audio": "/source/Intro.mp3",
+        "song": "Intro",
+        "album": "XX",
+        "singer": "The xx",
+        "duration": 127,
+        "isLike": true
+    },
+    {
+        "image": "/source/i.jpg",
+        "audio": "/source/Icarus.mp3",
+        "song": "Icarus",
+        "album": "Icarus",
+        "singer": "Ivan Torrent",
+        "duration": 275,
+        "isLike": false
+    },
+    {
+        "image": "/source/m.jpg",
+        "audio": "/source/Miles.mp3",
+        "song": "Miles",
+        "album": "TAS: The Absolute Sound 2008",
+        "singer": "David Munyon",
+        "duration": 159,
+        "isLike": false
+    }
+]
